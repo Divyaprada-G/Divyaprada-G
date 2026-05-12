@@ -1,148 +1,31 @@
-# [//]: # (╭────────────────────────────────────────────────────────────────────╮)
-# [//]: # (│  HI, I'M DIVYAPRADA G                                              │)
-# [//]: # (│  ▸ AI & Data Science Student | Google Student Ambassador '26       │)
-# [//]: # (│  ▸ Backend Engineer | Distributed Systems Enthusiast               │)
-# [//]: # (╰────────────────────────────────────────────────────────────────────╯)
+# 💫 About Me:
+🔭 Computer Science (AI & DS) student at Siddaganga Institute of Technology
+🌱 Currently learning Full Stack Development with Java, Spring Boot, React, and DSA
+💻 Interested in Full Stack Web Development and AI-powered applications
+👯 Open to collaborating on innovative web development projects
+🚀 Google Student Ambassador 2026
+🏆 Top 10 – Smart India Internal Hackathon 2025 (165+ teams)
+⚡ Solved 2250+ problems on LeetCode with a Global Rank of 1,190
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Divyaprada+G;Backend+%26+Distributed+Systems;Google+Student+Ambassador+2026;2250%2B+Problems+Solver+%F0%9F%94%A5" alt="Typing SVG" />
-</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Divyaprada%20G&fontSize=42&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Google%20Student%20Ambassador%20%2726&descAlignY=55&descSize=18" width="100%"/>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divyaprada-g-863711321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@divyaprada16?si=xfedZ3fCHUe9jCr7) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?satyle=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Divyaprada-G&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Divyaprada-G&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyaprada-G&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🧠 THE ENGINEER BEHIND THE CODE
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>🎓 <strong>B.E. Artificial Intelligence & Data Science</strong> — Siddaganga Institute of Technology (2023–2027)</li>
-        <li>⚡ <strong>LeetCode Global Rank 1,190</strong> · 2250+ problems solved <br> (🔴 540+ Hard · 🟠 1200+ Medium)</li>
-        <li>🏆 <strong>Top 10</strong> — Smart India Internal Hackathon 2025 (165+ teams)</li>
-        <li>🚀 <strong>Google Student Ambassador 2026</strong> — driving tech innovation on campus</li>
-        <li>📌 <strong>Focus:</strong> System Design, LLD, Spring Boot, Microservices, Kafka, Redis, K8s</li>
-      </ul>
-    </td>
-    <td align="center" width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyaprada-G&theme=radical&hide_border=true&layout=compact&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF" width="100%"/>
-    </td>
-  </tr>
-</table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Divyaprada-G&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Divyaprada-G&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 BUILDING THE FUTURE — ONE DISTRIBUTED SYSTEM AT A TIME
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🔹 DISTRIBUTED RATE LIMITER</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/10K%2B%20Concurrent%20Requests-00E5FF?style=flat-square"/>
-          <img src="https://img.shields.io/badge/%3C5ms%20Latency-00E5FF?style=flat-square"/>
-        </p>
-        <ul>
-          <li>Token Bucket + Sliding Window algorithms</li>
-          <li>Redis coordination, Java concurrency, Docker</li>
-          <li>High availability & scalability design</li>
-        </ul>
-        <p align="center"><code>Java · Redis · Docker · Concurrency</code></p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🔹 ADAPTIVE REAL‑TIME TRAFFIC SYSTEM</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Event%20Driven-00E5FF?style=flat-square"/>
-          <img src="https://img.shields.io/badge/10K%2B%20Vehicles-00E5FF?style=flat-square"/>
-        </p>
-        <ul>
-          <li>Queue‑based stream processing & fault tolerance</li>
-          <li>Congestion detection & node failure simulation</li>
-          <li>Distributed architecture design</li>
-        </ul>
-        <p align="center"><code>Java · Distributed Systems · Event‑Driven</code></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🔹 SCALABLE URL SHORTENER</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/O(1)%20Lookup-00E5FF?style=flat-square"/>
-          <img src="https://img.shields.io/badge/-40%25%20Latency-00E5FF?style=flat-square"/>
-        </p>
-        <ul>
-          <li>Hash‑based encoding, connection pooling</li>
-          <li>Query optimization & indexing</li>
-          <li>Production‑ready backend</li>
-        </ul>
-        <p align="center"><code>Java · MySQL</code></p>
-      </td>
-      <td width="50%" valign="middle" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyaprada-G&theme=radical&hide_border=true&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=aaaaaa" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## ⚙️ TECH STACK — DEEP & MODERN
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,kafka,docker,kubernetes,git,githubactions,linux,postman,python,cpp&perline=7" />
-</p>
-
-<div align="center">
-
-| **Backend & Core** | **Databases** | **DevOps & Tools** |
-|:---:|:---:|:---:|
-| Java · Spring Boot · REST APIs · Microservices | MySQL · MongoDB · Redis | Docker · Kubernetes · Git · GH Actions · Linux · Postman |
-| Apache Kafka · Distributed Systems · LLD | | |
-
-</div>
-
----
-
-## 📈 REAL STATS. REAL IMPACT.
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyaprada-G&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00E5FF&line=00E5FF&point=FFFFFF&area_color=00E5FF" width="95%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyaprada-G&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyaprada-G&theme=radical&hide_border=true&layout=compact&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff" width="48%" />
-</div>
-
----
-
-## 🌐 CONNECT & COLLABORATE
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/divyaprada-g-863711321"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Divyaprada-G"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Divyaprada-G/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</p>
-
----
-
-## 📜 THE CODING PHILOSOPHY
-
-> *“First, solve the problem. Then, write the code.”*  
-> — John Johnson
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&fontSize=0"/>
-  <br/>
-  <img src="https://visitcount.itsvg.in/api?id=Divyaprada-G&label=🚀%20PROFILE%20VIEWS&color=0&icon=5&pretty=true" />
-  <br/><br/>
-  <sub><i>⚡ Building systems that scale, one microservice at a time.</i></sub>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=Divyaprada-G&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
