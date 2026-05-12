@@ -1,14 +1,8 @@
-# [//]: # (╭────────────────────────────────────────────────────────────────────╮)
-# [//]: # (│  HI, I'M DIVYAPRADA G                                              │)
-# [//]: # (│  ▸ AI & Data Science Student | Google Student Ambassador '26       │)
-# [//]: # (│  ▸ Backend Engineer | Distributed Systems Enthusiast              │)
-# [//]: # (╰────────────────────────────────────────────────────────────────────╯)
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Divyaprada+G;Backend+%26+Distributed+Systems;Google+Student+Ambassador+2026;2250%2B+Problems+Solver+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
-<!-- ANIMATED MATRIX GRID (generated via inline SVG + CSS) -->
+<!-- ANIMATED HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Divyaprada%20G&fontSize=42&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Google%20Student%20Ambassador%20%2726&descAlignY=55&descSize=18" width="100%"/>
 </p>
@@ -38,7 +32,6 @@
 
 ## 🚀 BUILDING THE FUTURE — ONE DISTRIBUTED SYSTEM AT A TIME
 
-<!-- 3D-like project cards with hover effects using HTML/CSS (Github Markdown supports inline HTML) -->
 <div align="center">
   <table>
     <tr>
@@ -137,7 +130,7 @@
 
 ## 📜 THE CODING PHILOSOPHY
 
-> *“First, solve the problem. Then, write the code.”*  
+> *"First, solve the problem. Then, write the code."*  
 > — John Johnson
 
 ---
