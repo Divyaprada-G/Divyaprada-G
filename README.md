@@ -154,7 +154,3 @@
 > "First, solve the problem. Then, write the code."
 
 ---
-
-# 👀 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=Divyaprada-G&label=Profile%20Views&color=12&icon=5&pretty=true) ,,,, ,,, this looks like normal and simple , so i want creative and innovative and advanced version looks type
