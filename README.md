@@ -252,22 +252,13 @@ Current Learning:
 <div align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://leetcard.jacoblin.cool/?theme=dark&font=Baloo&ext=heatmap"/>
+<img src="https://leetcode.com/u/Divyaprada_G/"/>
 </a>
 
 </div>
 
 ---
 
-# 🎵 Currently Vibing To
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31zj3q4w2xyz&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
-
-</div>
-
----
 
 <div align="center">
 
