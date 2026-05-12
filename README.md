@@ -1,270 +1,160 @@
+# Hi 👋, I'm Divyaprada G
 
-<div align="center">
+### 🚀 Aspiring Software Engineer | AI & Data Science Student | Google Student Ambassador 2026
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Divyaprada G
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer+in+Progress;Distributed+Systems+Enthusiast;AI+%26+Data+Science+Student;Backend+Developer;Google+Student+Ambassador+2026;2250%2B+DSA+Problems+Solved" />
-
-<img src="https://komarev.com/ghpvc/?username=Divyaprada-G&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</div>
+💡 Passionate about building scalable backend systems, distributed applications, and real-time data platforms.  
+💻 Strong interest in Software Engineering, Distributed Systems, Backend Development, and AI-powered applications.  
+🌱 Currently focused on Java, Spring Boot, Microservices, System Design, DSA, and Scalable Architectures.
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+- 🎓 B.E. in Artificial Intelligence & Data Science  
+  Siddaganga Institute of Technology (2023 – 2027)
 
-```yaml
-Name: Divyaprada G
+- 🔭 Currently building:
+  - Distributed Systems
+  - Real-Time Traffic Data Platforms
+  - Scalable Backend Applications
 
-Education:
-  Degree: B.E. Artificial Intelligence & Data Science
-  College: Siddaganga Institute of Technology
-  Year: 2023 - 2027
+🌱 Currently Learning:
+- Scalable Backend Development with Spring Boot
+- Microservices & Distributed Systems
+- Kafka, Redis & Real-Time Stream Processing
+- Kubernetes & Cloud-Native Deployment
+- Low-Level Design (LLD) & System Design
 
-Focus Areas:
-  - Distributed Systems
-  - Backend Engineering
-  - Real-Time Data Platforms
-  - System Design
-  - Cloud-Native Architectures
+- 💬 Ask me about:
+  - Java
+  - DSA
+  - REST APIs
+  - Distributed Systems
+  - Backend Development
 
-Current Learning:
-  - Spring Boot
-  - Kafka & Redis
-  - Kubernetes
-  - Microservices
-  - Scalable System Design
-````
+- 🚀 Google Student Ambassador 2026
 
-<br>
+- 🏆 Top 10 – Smart India Internal Hackathon 2025 (165+ Teams)
 
-* 🚀 Building scalable backend systems & distributed applications
-* ⚡ Solved **2250+ DSA Problems**
-* 🧠 **540+ Hard** problems solved
-* 🏆 **Top 10** — Smart India Internal Hackathon 2025
-* 🌍 Google Student Ambassador 2026
-* 💡 Passionate about low-latency and high-scale systems
-* 🎯 Goal: Become a world-class Software Engineer
+- ⚡ LeetCode Global Rank: **1,190**
+- 🧠 Solved **2250+ problems**
+  - 540+ Hard
+  - 1200+ Medium
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyaprada-g-863711321)
 
-<a href="https://linkedin.com/in/divyaprada-g-863711321">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divyaprada-G)
 
-<a href="https://github.com/Divyaprada-G">
-<img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</div>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
 ---
 
-# ⚔️ Tech Arsenal
-
-<div align="center">
+# 💻 Tech Stack
 
 ## 🚀 Languages
-
-<img src="https://skillicons.dev/icons?i=java,cpp,python,mysql"/>
-
----
-
-## ⚡ Backend & Distributed Systems
-
-<img src="https://skillicons.dev/icons?i=spring,redis,docker,kafka"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## ☁️ DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,git,github,linux,postman"/>
+## ⚙️ Backend & Distributed Systems
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
 
 ---
 
 ## 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+---
 
-</div>
+## ☁️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
-<div align="center">
+## 🔹 Distributed Rate Limiter
+- Built a distributed rate limiter handling **10K+ concurrent requests**
+- Implemented:
+  - Token Bucket Algorithm
+  - Sliding Window Algorithm
+- Achieved **<5ms latency** using Java concurrency and Redis coordination
+- Designed scalable distributed architecture
 
-<table>
-<tr>
-<td width="50%">
-
-## ⚡ Distributed Rate Limiter
-
-### 🔹 Highlights
-
-* Handled **10K+ concurrent requests**
-* Token Bucket + Sliding Window
-* Redis-based coordination
-* Ultra low latency (**<5ms**)
-
-### ⚙️ Stack
-
+### Tech Used
 `Java` `Redis` `Docker` `Concurrency`
 
-</td>
+---
 
-<td width="50%">
+## 🔹 Adaptive Real-Time Traffic System
+- Designed an event-driven distributed traffic management system
+- Processed real-time data from **10K+ vehicles**
+- Implemented:
+  - Queue-based stream processing
+  - Fault-tolerant mechanisms
+  - Congestion detection system
+- Simulated node failures for high availability testing
 
-## 🚦 Adaptive Traffic System
-
-### 🔹 Highlights
-
-* Real-time event-driven architecture
-* Processed data from **10K+ vehicles**
-* Fault-tolerant distributed design
-* Congestion detection engine
-
-### ⚙️ Stack
-
-`Java` `Kafka` `Distributed Systems`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🔗 Scalable URL Shortener
-
-### 🔹 Highlights
-
-* O(1) URL lookup
-* Hash-based encoding
-* Reduced latency by **40%**
-* Optimized indexing & pooling
-
-### ⚙️ Stack
-
-`Java` `MySQL` `Spring Boot`
-
-</td>
-
-<td width="50%">
-
-## ☁️ Cloud-Native Backend Systems
-
-### 🔹 Highlights
-
-* Containerized microservices
-* CI/CD pipelines
-* Distributed architecture
-* Scalable deployments
-
-### ⚙️ Stack
-
-`Docker` `Kubernetes` `GitHub Actions`
-
-</td>
-</tr>
-</table>
-
-</div>
+### Tech Used
+`Java` `Distributed Systems` `Event-Driven Architecture`
 
 ---
 
-# 📊 GitHub Analytics
+## 🔹 Scalable URL Shortener
+- Developed a scalable URL shortener with **O(1) lookup**
+- Used hash-based encoding for efficient URL mapping
+- Reduced latency by **40%** through:
+  - Query optimization
+  - Indexing
+  - Connection pooling
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Divyaprada-G&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyaprada-G&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyaprada-G&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-| Achievement                  | Details                    |
-| ---------------------------- | -------------------------- |
-| 🚀 Google Student Ambassador | 2026                       |
-| 🏆 Smart India Hackathon     | Top 10 among 165+ Teams    |
-| ⚡ LeetCode Rank              | Global Rank **1,190**      |
-| 🧠 Problem Solving           | **2250+** Questions Solved |
-| 💻 Hardcore DSA              | **540+ Hard Problems**     |
-
-</div>
+### Tech Used
+`Java` `MySQL`
 
 ---
 
-# 📈 Contribution Graph
+# 📊 GitHub Stats
 
-<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=Divyaprada-G&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyaprada-G&theme=tokyo-night&hide_border=true&area=true"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Divyaprada-G&theme=tokyonight&hide_border=false)
 
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyaprada-G&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
-# 💭 Dev Quote
+# 🏅 Achievements
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-# ⚡ Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://leetcode.com/u/Divyaprada_G/"/>
-</a>
-
-</div>
+- 🚀 Google Student Ambassador 2026
+- 🏆 Top 10 – Smart India Internal Hackathon 2025
+- ⚡ LeetCode Global Rank 1,190
+- 💡 Solved 2250+ coding problems
 
 ---
 
+# ✨ Quote
 
-<div align="center">
+> "First, solve the problem. Then, write the code."
 
-## 🚀 "Build Systems That Scale. Solve Problems That Matter."
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=120&section=footer"/>
+# 👀 Profile Views
 
-</div>
-```
+![](https://visitcount.itsvg.in/api?id=Divyaprada-G&label=Profile%20Views&color=12&icon=5&pretty=true) ,,,, ,,, this looks like normal and simple , so i want creative and innovative and advanced version looks type
